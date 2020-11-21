@@ -1,0 +1,348 @@
+{
+	"navigation": [
+		{
+			"title": "Home",
+			"icon": "sap-icon://home",
+			"expanded": true,
+			"key": "home",
+			"items": []
+		},
+		{
+			"title": "About",
+			"icon": "sap-icon://hint",
+			"expanded": false,
+			"key": "about",
+			"items": [
+				{
+					"title": "About1",
+					"key": "about1"
+				},
+				{
+					"title": "About2",
+					"key": "about2"
+				}				
+			]
+		},	
+		{
+			"title": "Recruiting",
+			"icon": "sap-icon://add-employee",
+			"expanded": false,
+			"key": "Recruiting",
+			"items": [
+				{
+					"title": "JobDescription",
+					"key": "Job Description was pressed"
+				},
+				{
+					"title": "Sources",
+					"key": "Sources was pressed"
+				},
+				{
+					"title": "Process",
+					"key": "Process was pressed"
+				},
+				{
+					"title": "Regulation",
+					"key": "Regulation was pressed"
+				},
+				{
+					"title": "RecruitingCycle",
+					"key": "Recruiting Cycle was pressed"
+				},
+				{
+					"title": "Forms",
+					"key": "Forms was pressed"
+				},
+				{
+					"title": "JobCatalog",
+					"key": "Job Catalog was pressed"
+				}
+			]
+		},	
+		{
+			"title": "EvaluationCenter",
+			"icon": "sap-icon://group",
+			"expanded": true,
+			"key": "Evaluation",
+			"items": []
+		},	
+		{
+			"title": "Onboarding",
+			"icon": "sap-icon://decision",
+			"expanded": false,
+			"key": "Onboarding",
+			"items": [
+				{
+					"title": "PreHiring",
+					"key": "Pre-Hiring was pressed"
+				},
+				{
+					"title": "Forms",
+					"key": "Forms was pressed"
+				},
+				{
+					"title": "Procedure",
+					"key": "Procedure was pressed"
+				},
+				{
+					"title": "Absorption",
+					"key": "Absorption was pressed"
+				}
+			]
+		},	
+		{
+			"title": "EmployeeLifeCycle",
+			"icon": "sap-icon://busy",
+			"expanded": false,
+			"key": "LifeCycle",
+			"items": [
+				{
+					"title": "Presence",
+					"key": "Presence was pressed"
+				},
+				{
+					"title": "RegularWork",
+					"key": "Regular Work was pressed"
+				},
+				{
+					"title": "Operation",
+					"key": "Operation was pressed"
+				}			
+			]
+		},	
+		{
+			"title": "Termination",
+			"icon": "sap-icon://system-exit",
+			"expanded": false,
+			"key": "Termination",
+			"items": [
+				{
+					"title": "Terminationofexternals",
+					"key": "Termination of externals was pressed"
+				},
+				{
+					"title": "Disciplinaryoffenses",
+					"key": "Disciplinary offenses was pressed"
+				},
+				{
+					"title": "Form161",
+					"key": "Form 161 was pressed"
+				},
+				{
+					"title": "RetirementProcedure",
+					"key": "Retirement Procedure was pressed"
+				},
+				{
+					"title": "RegularterminationProcedure",
+					"key": "Regular termination Procedure was pressed"
+				}
+			]
+		},	
+		{
+			"title": "LaborandEmploymentLaw",
+			"icon": "sap-icon://official-service",
+			"expanded": false,
+			"key": "LaborLaw",
+			"items": []
+		},	
+		{
+			"title": "Payroll",
+			"icon": "sap-icon://simple-payment",
+			"expanded": false,
+			"key": "Payroll",
+			"items": [
+				{
+					"title": "Form106",
+					"key": "Form 106 was pressed"
+				},
+				{
+					"title": "RemunerationStatement",
+					"key": "Remuneration Statement was pressed"
+				}
+			]
+		},	
+		{
+			"title": "CompensationBenefits",
+			"icon": "sap-icon://goal",
+			"expanded": false,
+			"key": "Compensation",
+				"items": [
+				{
+					"title": "CartravelPolicy",
+					"key": "Car and travel Policy was pressed"
+				},
+				{
+					"title": "LearningPolicy",
+					"key": "Learning Policy was pressed"
+				},
+				{
+					"title": "EducationFund",
+					"key": "Education Fund was pressed"
+				},
+				{
+					"title": "Loan",
+					"key": "Loan was pressed"
+				}				
+			]
+		},
+		{
+			"title": "Learning",
+			"icon": "sap-icon://education",
+			"expanded": false,
+			"key": "Learning",
+			"items": [
+				{
+					"title": "TraningPolicy",
+					"key": "Traning Policy was pressed"
+				},
+				{
+					"title": "TeachingMaterial",
+					"key": "Teaching Material was pressed"
+				},
+				{
+					"title": "AnnualTrainingProgram",
+					"key": "Annual Training Program was pressed"
+				},
+				{
+					"title": "LearningStrategy",
+					"key": "Learning Strategy was pressed"
+				}				
+			]
+		},
+		{
+			"title": "ContingentWorkforce",
+			"icon": "sap-icon://offsite-work",
+			"expanded": false,
+			"key": "ContingentWF",
+			"items": [
+				{
+					"title": "ExternalHire",
+					"key": "External Hire was pressed"
+				},
+				{
+					"title": "ExternalTermination",
+					"key": "External Termination was pressed"
+				}
+			]
+		},
+		{
+			"title": "Individual",
+			"icon": "sap-icon://customer",
+			"expanded": false,
+			"key": "Individual",
+			"items": [
+				{
+					"title": "FamilyViolence",
+					"key": "Family Violence was pressed"
+				},
+				{
+					"title": "Anxiety",
+					"key": "Anxiety was pressed"
+				},
+				{
+					"title": "CrisisSituations",
+					"key": "Crisis Situations was pressed"
+				},
+				{
+					"title": "IndividualsDomain",
+					"key": "Individuals Domain was pressed"
+				}				
+			]
+		},	
+		{
+			"title": "SocialResponsibility",
+			"icon": "sap-icon://jam",
+			"expanded": false,
+			"key": "SocialResp",
+			"items": [
+				{
+					"title": "Policies",
+					"key": "Policies was pressed"
+				}
+			]
+		},			
+		{
+			"title": "Analytics",
+			"icon": "sap-icon://line-chart",
+			"expanded": true,
+			"key": "statistics",
+			"items": [
+				{
+					"title": "Usage Statistics",
+					"key": "Usage Statistics was pressed"
+				},
+				{
+					"title": "Order Statistics",
+					"key": "Order Statistics was pressed"
+				}
+			]
+		},
+		{
+			"title": "Settings",
+			"icon": "sap-icon://settings",
+			"expanded": false,
+			"key": "masterSettings"
+		,
+			"items": []
+		}
+	],
+	"fixedNavigation": [
+		{
+			"title": "Forms",
+			"icon": "sap-icon://form",
+			"key": "Forms Links was pressed"
+		},	
+		{
+			"title": "HelpFiles",
+			"icon": "sap-icon://sys-help-2",
+			"key": "Help Files Links was pressed"
+		},	
+		{
+			"title": "TravelCalculators",
+			"icon": "sap-icon://simulate",
+			"key": "Travel Calculators Links was pressed"
+		},	
+		{
+			"title": "BenefitsCalculators",
+			"icon": "sap-icon://simulate",
+			"key": "Benefits Calculators Links was pressed"
+		},			
+		{
+			"title": "ImportantLinks",
+			"icon": "sap-icon://chain-link",
+			"key": "Important Links was pressed"
+		},
+		{
+			"title": "Legal",
+			"icon": "sap-icon://compare",
+			"key": "legal"
+		}
+	],
+	"masterSettings": [
+		{
+			"title": "System Settings",
+			"key": "systemSettings",
+			"selected": true
+		},
+		{
+			"title": "Order Settings",
+			"key": "orderSettings",
+			"selected": false
+		},
+		{
+			"title": "Supplier Settings",
+			"key": "supplierSettings",
+			"selected": false
+		},
+		{
+			"title": "Campaign Settings",
+			"key": "campaignSettings",
+			"selected": false
+		},
+		{
+			"title": "Shipping Settings",
+			"key": "shipping Settings",
+			"selected": false
+		}
+	]
+}

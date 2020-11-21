@@ -1,0 +1,3 @@
+#Source#
+Configuring KPI tags of an Analytical List Page (ALP) application
+"https://blogs.sap.com/2019/08/22/configuring-kpi-tags-of-an-analytical-list-page-alp-application/"
